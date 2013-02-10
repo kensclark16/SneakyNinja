@@ -1,0 +1,4 @@
+name: Sneaky Ninja
+description: When someone presses shift (if they have the right permission and the ability is activated) they will turn invisible to all other players.
+main: com.github.kensclark16.SneakyNinja
+version: 1.0.0
